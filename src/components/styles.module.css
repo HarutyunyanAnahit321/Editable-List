@@ -1,0 +1,9 @@
+.listLi {
+  padding: 10px 5px;
+}
+
+.columnTitle {
+  text-align: center;
+  padding-bottom: 15px;
+  border-bottom: 0.5px solid black
+}
